@@ -1,4 +1,4 @@
-# iapowerpack
+# Intellectual Activity Powerpack
 Scrapbox's json file for Intellectual activity.
 
 このプロジェクトは、知的活動に役立つ情報をScrapboxのjsonファイルで配布する企画です。
